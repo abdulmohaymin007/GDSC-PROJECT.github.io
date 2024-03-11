@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/GDSC-PROJECT/static/css/main.72750f7d.css",
-    "main.js": "/GDSC-PROJECT/static/js/main.fda2940a.js",
-    "index.html": "/GDSC-PROJECT/index.html",
-    "main.72750f7d.css.map": "/GDSC-PROJECT/static/css/main.72750f7d.css.map",
-    "main.fda2940a.js.map": "/GDSC-PROJECT/static/js/main.fda2940a.js.map"
+    "main.css": "/GDSC-PROJECT.github.io/static/css/main.72750f7d.css",
+    "main.js": "/GDSC-PROJECT.github.io/static/js/main.fda2940a.js",
+    "index.html": "/GDSC-PROJECT.github.io/index.html",
+    "main.72750f7d.css.map": "/GDSC-PROJECT.github.io/static/css/main.72750f7d.css.map",
+    "main.fda2940a.js.map": "/GDSC-PROJECT.github.io/static/js/main.fda2940a.js.map"
   },
   "entrypoints": [
     "static/css/main.72750f7d.css",
